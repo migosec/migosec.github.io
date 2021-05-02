@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Basic Info
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+- Beginner in pentesting
+- Can code but not very well
+- Java RE
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[migo@tuta.io](mailto:migo@tuta.io)
